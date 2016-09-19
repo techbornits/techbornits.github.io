@@ -1,5 +1,5 @@
 # Techbornits.github.io
-Website for Techbornits.
+Website for Techborn IT Solutions Pvt Ltd.
 
 ## About us
 Techborn IT Solutions Pvt Ltd., Bangalore is established to enable digital transformation of organizations by delivering scalable and robust solutions using the latest technologies. We are a team of committed professionals with several years of experience and are a group of highly motivated Specialists and industry Experts in various technologies and IT-enabled services.
